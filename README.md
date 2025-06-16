@@ -68,5 +68,6 @@ I'm a passionate full stack developer from India 🇮🇳
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/i-am-subrata/i-am-subrata/output/dist/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/i-am-subrata/i-am-subrata/output/dist/snake.svg)
+
 </div>
