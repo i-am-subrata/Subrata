@@ -59,5 +59,5 @@ Hi, I'm Subrata Hazra from India 👋<br><br>
 
 ### 🐍 Contribution Snake Animation
 
-```html
+html
 <img src="https://raw.githubusercontent.com/i-am-subrata/i-am-subrata/output/github-contribution-grid-snake.svg" alt="Snake animation" />
